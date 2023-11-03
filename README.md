@@ -12,11 +12,13 @@ Try it <a href='http://simstocks.us-west-2.elasticbeanstalk.com/'>here</a>.
 
 1. You will need to create an account. You can do that by clicking on the `Sign In or Create an Account` button, followed by the Sign Up button on the next page, and selecting a username and password.
 
-2. New accounts will receive $100,000 in fake cash. Once you are signed in, you can search for and purchase your first stock. To do that, click the `Trade` button in the top navigation bar or the highlighted 'Trade' text on the Home screen. You can search for a stock by its ticker symbol or by its name. Click on a stock to view more information about it. If you would like to purchase shares of the stock, enter the number of shares you would like to purchase and click on the `Purchase Share(s)` button to complete the transaction.
+2. If you would prefer to try out the app without creating an account, you can sign in as a guest by clicking the 'GUEST' button on the home page. Guests will be able to view and interact with a pre-populated portfolio, but will not be able to buy or sell stocks.
 
-3. Navigate to the `Portfolio` page to view your current holdings. You can click on a stock to view more information about it. If you would like to sell shares of the stock, enter the number of shares you would like to sell and click on the `Sell Share(s)` button to complete the transaction.
+3. New accounts will receive $100,000 in fake cash. Once you are signed in, you can search for and purchase your first stock. To do that, click the `Trade` button in the top navigation bar or the highlighted 'Trade' text on the Home screen. You can search for a stock by its ticker symbol or by its name. Click on a stock to view more information about it. If you would like to purchase shares of the stock, enter the number of shares you would like to purchase and click on the `Purchase Share(s)` button to complete the transaction.
 
-4. Check back in on your portfolio periodically to see how your stocks are performing!
+4. Navigate to the `Portfolio` page to view your current holdings. You can click on a stock to view more information about it. If you would like to sell shares of the stock, enter the number of shares you would like to sell and click on the `Sell Share(s)` button to complete the transaction.
+
+5. Check back in on your portfolio periodically to see how your stocks are performing!
 
 ## Technologies and Tools
 
